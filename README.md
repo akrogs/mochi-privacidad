@@ -1,4 +1,4 @@
-# Mochi · Política de privacidad
+# Fuwi · Política de privacidad
 
-Política de privacidad del juego Mochi (Akrogs Labs), publicada en https://akrogs.github.io/mochi-privacidad/
+Política de privacidad del juego Fuwi (Akrogs Labs), publicada en https://akrogs.github.io/mochi-privacidad/
 
